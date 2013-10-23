@@ -1,0 +1,25 @@
+[33mcommit 52e64d35e5fba29fec295973b19fb06745481586[m
+Author: figen <figengungor1@gmail.com>
+Date:   Wed Oct 23 17:22:09 2013 +0300
+
+    Revert "changed the name from readm.txt to readme.txt"
+    
+    This reverts commit 0ad7f9a40905243815aee2df40d43889c5052016.
+
+[33mcommit 0ad7f9a40905243815aee2df40d43889c5052016[m
+Author: figen <figengungor1@gmail.com>
+Date:   Wed Oct 23 17:01:00 2013 +0300
+
+    changed the name from readm.txt to readme.txt
+
+[33mcommit 75ff09e94403b5ebd42d874afa9402ac79b4e992[m
+Author: figen <figengungor1@gmail.com>
+Date:   Wed Oct 23 16:57:55 2013 +0300
+
+    readme.txt is added
+
+[33mcommit ddcc93338b83fe6e3706013808f4ffeb02192740[m
+Author: figen <figengungor1@gmail.com>
+Date:   Wed Oct 23 16:51:28 2013 +0300
+
+    My first backup
